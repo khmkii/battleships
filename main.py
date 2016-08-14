@@ -65,9 +65,9 @@ def quit_programme():
 
 def clear_tscreen():
     if 'Windows' in platform.architecture()[1]:
-        os.system('clear')
-    else:
         os.system('cls')
+    else:
+        os.system('clear')
 
 
 if __name__ == '__main__':
