@@ -1,4 +1,4 @@
 # battleships
-Python Web Development Techdegree Project 2
+# Python Web Development Techdegree Project 2
 
-A two player terminal game of battleships
+# A two player terminal game of battleships
