@@ -1,4 +1,5 @@
-# battleships
-# Python Web Development Techdegree Project 2
+# Battleships
 
-# A two player terminal game of battleships
+A two player terminal based version of the game Battleships
+
+Completed as part of a Python Techdegree
